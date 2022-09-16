@@ -3,7 +3,7 @@ cat_specification
 <- concept_atomic_component;
 <- concept_kb_component;
 
-=> nrel_author: Orlov;
+=> nrel_author: ... (* -> Orlov;; *);
 => nrel_explanation: [Semantic neighbourhood of cat.] (*<- lang_en;;*);
 
 => nrel_inner_deps: ...;
