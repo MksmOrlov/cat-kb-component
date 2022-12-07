@@ -18,6 +18,6 @@ cat_component
     => nrel_component_dependencies: ... (* <- empty_set;; *);;
 
     => nrel_storage_address: [https://github.com/MksmOrlov/cat-kb-component] (*<- github_url;; *);;
-    => nrel_installation_method: ... (<- concept_component_dynamically_installed_method;; *);;
+    => nrel_installation_method: ... (* <- concept_component_dynamically_installed_method;; *);;
 *];;
 
