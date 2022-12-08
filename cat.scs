@@ -6,6 +6,7 @@ concept_cat
 	[кот]
 	(* <- lang_ru;; *);
 	[cat]
+    (* <- lang_en;; *);
 <- rrel_key_sc_element:
 	...
 	(*
