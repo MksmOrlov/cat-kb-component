@@ -1,4 +1,4 @@
-cat_specification
+cat_reusable_component_specification
     <- concept_reusable_component_specification;;
 
 cat_reusable_component_specification = [*
