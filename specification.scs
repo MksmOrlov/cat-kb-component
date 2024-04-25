@@ -13,7 +13,9 @@ cat_reusable_component_specification = [*
     <- concept_reusable_dynamically_installed_component;;
     <- number_36 (* <- concept_installation_number;; => nrel_sc_identifier: [36];; *);;
 
-    => nrel_sc_identifier: [Concept cat specification] (* <- lang_en;; *);;
+    => nrel_main_idtf: [Concept cat specification] (* <- lang_en;; *);;
+    => nrel_main_idtf: [Спецификация понятия кот] (* <- lang_ru;; *);;
+
     => nrel_authors: ... (* -> Orlov;; *);;
     => nrel_note: [Cat specification contains inclusion, identifiers, definition and two entities] (* <- lang_en;; *);;
     => nrel_explanation: [Meow meow meow!] (*<- lang_en;; *);;
